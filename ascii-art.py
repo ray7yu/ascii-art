@@ -9,4 +9,5 @@ for y in image_array:
     for x in y:
         x = (x[0] + x[1] + x[2]) // 3
         print(char_list[x // 4], end='')
+        print(char_list[x // 4], end='')
     print('')
