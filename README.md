@@ -15,5 +15,6 @@ To run: <code>python3 ascii-art.py</code> </br>
 After execution, the OSX shell must be zoomed out to the widest possible view to see image. </br>
 Script will also create an image file called snapshot.jpg during execution. 
 ## Helpful Documentation
+Project was inspired by: https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/
 Imagesnap: https://github.com/rharder/imagesnap </br>
 Python Image Library: https://pillow.readthedocs.io/en/stable/
